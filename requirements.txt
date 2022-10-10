@@ -4,4 +4,5 @@ matplotlib==3.6.0
 wordcloud==1.8.2.2
 opendatasets==0.1.22
 ipykernel
+ipywidgets
 pandas_profiling
