@@ -5,3 +5,4 @@ opendatasets==0.1.22
 ipykernel==6.16.0
 ipywidgets==8.0.2
 pandas-profiling==3.3.0
+pandasql==0.7.3
