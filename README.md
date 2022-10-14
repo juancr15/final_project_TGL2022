@@ -1,8 +1,21 @@
-# final_project_TGL2022
-<body>
+# Top Gun Lab Python 2022 - Final Project
 
-<h2>Context<h2/>
+## Set Up
 
+### Requirements
+- Pandas
+- Seaborn
+- Matplotlib
+- Opendatasets
+- Ipykernel
+- Ipywidgets
+- Pandas-profiling
+- Pandasql
+
+```
+pip install -r requirements.txt
+```
+## Viz Context
 The problem we posed ourselves in order to create these visualizations was to discover which journals occupied the top 5 positions in the SCImagor Journal Rank each year and to derive additional data from this, both from the specific journal and in general.
 
 The dashboard is comprised of six visualizations, divided into two interactions. The first is orchestrated through the 'Year' filter, which in a bar graph titled 'Top Journals' displays the top five journals with the greatest scientific influence as defined by the Scimagor Journal Rank, which catalogs them by the average number of weighted citations received during the year.
@@ -15,5 +28,10 @@ As an added value, the map visualization shows how the majority of publications 
 
 Furthermore, the Wordcloud is filtered by the 'categories' column, which reveals the keywords of the research, allowing us to identify a tendency toward certain approaches on which technology has advanced both theoretically and practically.
 
+## Final Thoughts
 
-<body/>
+## Challenges
+- Understand and materialize the requirements from the client (us) for this analysis
+- Understand the dataset
+- Building a specific strategy for the treatment of the dataset
+- Being creative when building the visualizations on Power BI
