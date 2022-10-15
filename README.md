@@ -26,7 +26,10 @@ pip install -r requirements.txt
 ## Dataset
 SCImago Journal & Country Rank is a publicly available portal that includes the journals and country scientific indicators developed from the Scopus database.
 > For more information about the dataset, please go to [Jupyter Notebook / 1. Understanding the dataset](https://nbviewer.org/github/juancr15/final_project_TGL2022/blob/main/src/analisis_Journals_IA.ipynb)
+
 ## Vizualitation Context
+> Download the visualization [here!](https://github.com/juancr15/final_project_TGL2022/blob/main/src/df_visualization_journals.pbix)
+
 The problem we posed ourselves in order to create these visualizations was to discover which journals occupied the top 5 positions in the SCImagor Journal Rank each year and to derive additional data from this, both from the specific journal and in general.
 
 The dashboard is comprised of six visualizations, divided into two interactions. The first is orchestrated through the 'Year' filter, which in a bar graph titled 'Top Journals' displays the top five journals with the greatest scientific influence as defined by the Scimagor Journal Rank, which catalogs them by the average number of weighted citations received during the year.
