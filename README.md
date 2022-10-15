@@ -3,8 +3,8 @@ The goal of data analysis is to discover useful information, answer key question
 - [Jupyter Notebook](https://nbviewer.org/github/juancr15/final_project_TGL2022/blob/main/src/analisis_Journals_IA.ipynb)
 ## Jump to
 - [Set Up](#set-up)
-- [Dashboard Context](#viz-context)
-- [Final Thoughts](#final-thoughts)
+- [Dataset](#dataset)
+- [Vizualitation Context](#vizualitation-context)
 - [Challenges](#challenges)
 
 
