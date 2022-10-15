@@ -43,8 +43,6 @@ As an added value, the visualization of the map shows how the majority of public
 
 Furthermore, the Wordcloud is filtered by the 'categories' column, which reveals the keywords of the research, allowing us to identify a tendency toward certain approaches on which technology has advanced both theoretically and practically.
 
-## Final Thoughts
-
 ## Challenges
 - Understand and materialize the requirements from the client (us) for this analysis
 - Understand the dataset
